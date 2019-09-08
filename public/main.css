@@ -1,0 +1,36 @@
+header {
+  height: 250px;
+  background: blue;
+}
+
+header button {
+  background: red;
+  height: 300x;
+  padding: 30px 60px;
+  font-size: 30px;
+}
+
+/* defines the variable 'a' 
+               and assigns the color blue to it */
+h1 {
+  color: green;
+}
+
+/* 
+
+Crash Course: 
+https://www.bing.com/videos/search?q=compile+scss&&view=detail&mid=C646330EE2D027066BF5C646330EE2D027066BF5&rvsmid=848D149EA328C395E2EC848D149EA328C395E2EC&FORM=VDQVAP
+
+Nesting and imports would not even be a possibility without Saas
+
+1. Create a file .scss and can assigned elements and or divs 
+or classes a specific color using either regular css or using 
+variables.
+
+2. Add the relative style reference according to the folder that 
+either your style.css or main.css is located using 
+<link rel="stylesheet" href="./styles/style.css">
+
+
+*/
+/*# sourceMappingURL=main.css.map */
